@@ -17,7 +17,7 @@ Abaixo segue os requisitos dos projeto (Classes):
 
 
 
-Obs. - O projeto sera dado continuidade no futuro por conta do tempo disponivel para ser concluido o boot camp.
+Obs. - O projeto ainda em contrucao pois sera dado continuidade no futuro por ser pre requisit para a conclusao do modulo Orientacao a Objetos em Java concluido o boot camp.
 
 
 
